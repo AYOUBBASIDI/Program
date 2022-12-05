@@ -1,0 +1,25 @@
+-- Hardware :
+
+	M3 Bolt (10mm length) – x14
+	M3 Bolt (20mm length) – x12
+	M3 Bolt (6mm length) – x2
+	M3 Nut – x26
+	Paper clips (used for linkages) – x3
+	Plano-convex lens for the eyes (between ⌀31.5-32.5mm) – x2
+
+
+-- Electronics :
+
+	High Torque Micro Servo Motor – x7
+	12V DC Geared Motor (100-150RPM, ⌀37mm, off-center output shaft) – x2
+	Arduino Uno (or equivalent) – x1
+	Motor Controller Shield – x1
+	i2c Servo Controller Board – x1
+	12V DC Battery Pack – x1 For example:
+		-2200mAh 11.1V 30C LiPo
+		-LiPo Battery charger
+		-XT60 Battery connectors
+	12V to 5V DC Buck Converter – x1
+	Raspberry Pi – x1
+	(optional) USB Camera – x1
+	(optional) Small Speaker – x1
